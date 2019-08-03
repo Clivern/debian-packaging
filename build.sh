@@ -1,3 +1,3 @@
 #!/bin/sh
 set -ex
-gcc -Wall -g hello.c -o hello
+gcc -Wall -g devclivern.c -o devclivern

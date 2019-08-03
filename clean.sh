@@ -1,3 +1,3 @@
 #!/bin/sh
 set -ex
-rm -f hello
+rm -f devclivern
