@@ -1,0 +1,12 @@
+Source: hello
+Section: devel
+Priority: optional
+Maintainer: clivern <hello@clivern.com>
+Build-Depends: build-essential, debhelper
+
+Package: hello
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: clivern hello package
+ clivern package is written in C
+ and prints a greeting.
