@@ -48,7 +48,7 @@ $ gpg --delete-secret-keys
 ## Build the package
 
 ```console
-$ debuild -S
+$ debuild -sd
 ```
 
 ## Release to PPA
