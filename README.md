@@ -13,6 +13,8 @@
 $ apt-get install dpkg-dev
 $ apt-get install gdebi-core
 $ apt-get install debhelper
+$ apt-get install devscripts
+$ apt-get install dput
 ```
 
 ### GPG Signing
@@ -46,7 +48,13 @@ $ gpg --delete-secret-keys
 ## Build the package
 
 ```console
-$ dpkg-buildpackage -b
+$ debuild -S
+```
+
+## Release to PPA
+
+```console
+$ dput ppa:clivern/ppa <source.changes>
 ```
 
 
