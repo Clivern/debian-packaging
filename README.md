@@ -60,6 +60,7 @@ $ dput ppa:clivern/ppa <source.changes>
 
 ## References
 
+- [Ubuntu Packaging Guide.](http://packaging.ubuntu.com/)
 - [Debian packaging for the modern developer.](https://github.com/phusion/debian-packaging-for-the-modern-developer)
 
 
