@@ -10,11 +10,7 @@
 ### Install Dependencies
 
 ```console
-$ apt-get install dpkg-dev
-$ apt-get install gdebi-core
-$ apt-get install debhelper
-$ apt-get install devscripts
-$ apt-get install dput
+$ apt-get install devscripts dput debhelper dpkg-dev gdebi-core
 ```
 
 ### GPG Signing
