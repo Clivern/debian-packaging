@@ -1,7 +1,7 @@
 <p align="center">
     <img alt="Debian Packaging Logo" src="https://raw.githubusercontent.com/clivern/debian-packaging/master/assets/img/logo.png" height="100" />
     <h3 align="center">Debian Packaging</h3>
-    <p align="center">A Debian Packaging Kit.</p>
+    <p align="center">A Debian Packaging Template.</p>
 </p>
 
 
